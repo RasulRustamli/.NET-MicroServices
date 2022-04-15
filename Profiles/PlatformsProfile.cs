@@ -4,7 +4,7 @@ using PlatformService.Models;
 
 namespace PlatformService.Profiles
 {
-    public class PlatformProfile:Profile
+    public class PlatformsProfile:Profile
     {
         public PlatformsProfile()
         {
